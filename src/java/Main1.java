@@ -8,5 +8,8 @@ public class Main1 {
         System.out.println("初始化代码2");
         System.out.println("初始化代码3");
         System.out.println("初始化代码4");
+        System.out.println("初始化代码5");
+        System.out.println("初始化代码6");
+        System.out.println("初始化代码7");
     }
 }
